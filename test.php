@@ -1,3 +1,3 @@
 <?php
-print t('test');
+print t('oops');
 ?>
